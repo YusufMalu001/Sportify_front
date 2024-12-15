@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/YusufMalu001/Sportify_front#readme",
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "axios": "^1.7.9"
-    
   }
 }
