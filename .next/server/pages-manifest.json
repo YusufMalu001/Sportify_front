@@ -1,5 +1,9 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/matches": "pages/matches.js",
+  "/players": "pages/players.js",
+  "/teams": "pages/teams.js",
+  "/tournaments": "pages/tournaments.js",
   "/_document": "pages/_document.js"
 }
